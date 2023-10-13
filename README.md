@@ -1,5 +1,5 @@
 
-![Spotify](Images/spoty.jpg)
+![Spotify](Images/spoty1.jpg)
 # Spotify song recommender-project
 Welcome to ours project.
  We had a chalenge to create fucntion that will take users input (desired song) and return the answer whether is the song hot or not hot song and  also will recomend next simmilar song. 
